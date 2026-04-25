@@ -35,7 +35,7 @@ This project demonstrates the implementation of a Wireless Local Area Network (W
 
 ## 🌐 Network Topology
 
-![Wireless Network](topology/wireless-topology.png)
+![Wireless Network](topology/Wireless-topology.png)
 
 ---
 
